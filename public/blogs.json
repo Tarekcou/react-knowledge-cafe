@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136",
+    "title": "The Future of AI in Everyday Life",
+    "author": "John Doe",
+    "author_image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
+    "posted_date": "2024-10-21",
+    "reading_time": 5,
+    "hash_tag": "#AI #Tech #Future"
+  },
+  {
+    "id": 2,
+    "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "title": "How to Create a Successful Remote Team",
+    "author": "Jane Smith",
+    "author_image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+    "posted_date": "2024-10-20",
+    "reading_time": 7,
+    "hash_tag": "#RemoteWork #Productivity #Leadership"
+  },
+  {
+    "id": 3,
+    "cover": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "title": "Top 10 Travel Destinations in 2024",
+    "author": "Emily White",
+    "author_image": "https://images.unsplash.com/photo-1544005318-94ddf0286df2",
+    "posted_date": "2024-10-19",
+    "reading_time": 6,
+    "hash_tag": "#Travel #Adventure #Tourism"
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "title": "Mastering Mindfulness: A Guide for Beginners",
+    "author": "David Green",
+    "author_image": "https://images.unsplash.com/photo-1544005319-694dda4fdf8b",
+    "posted_date": "2024-10-18",
+    "reading_time": 8,
+    "hash_tag": "#Mindfulness #MentalHealth #Wellness"
+  },
+  {
+    "id": 5,
+    "cover": "https://images.unsplash.com/photo-1467003909585-2f8a72700288",
+    "title": "The Ultimate Guide to Vegan Cooking",
+    "author": "Laura Black",
+    "author_image": "https://images.unsplash.com/photo-1544005314-94ddf0286df2",
+    "posted_date": "2024-10-17",
+    "reading_time": 10,
+    "hash_tag": "#Vegan #Food #Recipes"
+  },
+  {
+    "id": 6,
+    "cover": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "title": "The Importance of Cybersecurity in 2024",
+    "author": "Michael Brown",
+    "author_image": "https://images.unsplash.com/photo-1544005317-394ddf0286df2",
+    "posted_date": "2024-10-16",
+    "reading_time": 6,
+    "hash_tag": "#Cybersecurity #Tech #Safety"
+  },
+  {
+    "id": 7,
+    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+    "title": "Fitness Trends You Need to Know in 2024",
+    "author": "Sara Blue",
+    "author_image": "https://images.unsplash.com/photo-1544005316-94ddf0286df2",
+    "posted_date": "2024-10-15",
+    "reading_time": 4,
+    "hash_tag": "#Fitness #Health #Lifestyle"
+  },
+  {
+    "id": 8,
+    "cover": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "title": "Exploring the World of Virtual Reality",
+    "author": "Alex Red",
+    "author_image": "https://images.unsplash.com/photo-1544005320-94ddf0286df2",
+    "posted_date": "2024-10-14",
+    "reading_time": 9,
+    "hash_tag": "#VR #Tech #Innovation"
+  },
+  {
+    "id": 9,
+    "cover": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "title": "How to Invest in Cryptocurrency Safely",
+    "author": "Katie Green",
+    "author_image": "https://images.unsplash.com/photo-1544005319-394ddf0286df2",
+    "posted_date": "2024-10-13",
+    "reading_time": 7,
+    "hash_tag": "#Crypto #Investment #Finance"
+  },
+  {
+    "id": 10,
+    "cover": "https://images.unsplash.com/photo-1465326117523-6450112b60b2",
+    "title": "Sustainable Living: Tips for a Greener Future",
+    "author": "James Black",
+    "author_image": "https://images.unsplash.com/photo-1544005311-94ddf0286df2",
+    "posted_date": "2024-10-12",
+    "reading_time": 6,
+    "hash_tag": "#Sustainability #GreenLiving #Environment"
+  },
+  {
+    "id": 11,
+    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "title": "The Rise of Electric Vehicles: What to Expect",
+    "author": "Tom White",
+    "author_image": "https://images.unsplash.com/photo-1544005308-394ddf0286df2",
+    "posted_date": "2024-10-11",
+    "reading_time": 5,
+    "hash_tag": "#ElectricVehicles #Tech #Future"
+  },
+  {
+    "id": 12,
+    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+    "title": "Breaking Down Blockchain: A Beginner’s Guide",
+    "author": "Rachel Blue",
+    "author_image": "https://images.unsplash.com/photo-1544005322-694dda4fdf8b",
+    "posted_date": "2024-10-10",
+    "reading_time": 8,
+    "hash_tag": "#Blockchain #Tech #Innovation"
+  },
+  {
+    "id": 13,
+    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136",
+    "title": "Top 5 Books Every Entrepreneur Should Read",
+    "author": "Chris Green",
+    "author_image": "https://images.unsplash.com/photo-1544005321-694dda4fdf8b",
+    "posted_date": "2024-10-09",
+    "reading_time": 6,
+    "hash_tag": "#Entrepreneurship #Business #Success"
+  },
+  {
+    "id": 14,
+    "cover": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "title": "The Impact of Climate Change on Global Health",
+    "author": "Ashley Black",
+    "author_image": "https://images.unsplash.com/photo-1544005309-594dda4fdf8b",
+    "posted_date": "2024-10-08",
+    "reading_time": 7,
+    "hash_tag": "#ClimateChange #Health #Environment"
+  },
+  {
+    "id": 15,
+    "cover": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "title": "AI and Ethics: Navigating the Moral Dilemmas",
+    "author": "Ethan Red",
+    "author_image": "https://images.unsplash.com/photo-1544005325-394dda4fdf8b",
+    "posted_date": "2024-10-07",
+    "reading_time": 8,
+    "hash_tag": "#AI #Ethics #Technology"
+  }
+]
